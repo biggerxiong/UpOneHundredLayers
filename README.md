@@ -3,6 +3,6 @@
 
 **貌似有两张图被删掉了（开始的图片和小球的图片），我晚点找一找**
 
-找到了一个当时的项目演示：
+找到了一个以前的演示视频，>\_<：  
 
-![image][https://github.com/XiongMr/UpOneHundredLayers/blob/master/doc/Demonstration.gif]
+<img src="https://github.com/XiongMr/UpOneHundredLayers/blob/master/doc/Demonstration.gif?raw=true">
